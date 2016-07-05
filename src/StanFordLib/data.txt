@@ -1,0 +1,1 @@
+I have extracted each string and stored it in a array , now problem is actually how to count the no of instances where each 'word' is repeated and how to display so that repeated words not get displayed multiple times , can you help me in this one ?
